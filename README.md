@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m @dikshamanwani<br>👀 I’m interested in the field of Data Science<br>🌱 I’m currently learning R and Python<br>💞️ I’m looking to collaborate on R and Python Projects<br>📫 How to reach me: diksha08@uw.edu
+👋 Hello, I'm @dikshamanwani.<br>
+👀 As a dedicated Data Science student, I'm always seeking out fascinating projects to work on.<br>
+🌱 Currently, I'm expanding my knowledge in various areas of Data Science, including machine learning, data visualization, and statistical analysis.<br>
+💞️ I'm excited about collaborating with like-minded individuals on captivating projects.<br>
+📫 Feel free to reach out to me at diksha08@uw.edu to discuss potential collaborations or share interesting project ideas. Let's make data come alive together!
 
 
 ## 🌐 Socials:
